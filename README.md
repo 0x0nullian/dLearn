@@ -33,10 +33,10 @@ Download dLearn by cloning the Git repository:
 * Case 1 (Exclude certain videos)
 ![alt text](.d2.png)
 <br />
-<br />
+
 ![alt text](.d3.png)
 <br />
-# OR
+## OR
 
 ![alt text](.d5.png)
 <br />
